@@ -1,10 +1,7 @@
 ## 🎨 RomeanyStefanie: De Pixels a Código. UI/UX Designer com Foco em Frontend. 🚀
 
-\<div align="center"\>
-
 Sou uma **Designer de Interface (UI/UX)** com a ambição clara de atuar como **Desenvolvedora Frontend**. Meu trabalho é desenhar a experiência com a mente de quem irá implementar.
 
-\</div\>
 
 -----
 
@@ -30,6 +27,4 @@ Sou uma **Designer de Interface (UI/UX)** com a ambição clara de atuar como **
   * 🤓 **Objetivo Imediato:** Contribuir com código (HTML/CSS/JS) em projetos reais para documentar minha evolução no GitHub.
   * 💬 **Pergunte-me sobre:** Acessibilidade em Design (WCAG), Design Systems e como otimizar o *handoff* (entrega) para o time de desenvolvimento.
 
-
-\</div\>
 
