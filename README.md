@@ -2,7 +2,6 @@
 
 Sou uma **Designer de Interface (UI/UX)** com a ambição clara de atuar como **Desenvolvedora Frontend**. Meu trabalho é desenhar a experiência com a mente de quem irá implementar.
 
-
 #### 🖌️ Design de Interface & Estratégia UX (A Fundação):
 
   * **Figma** - Prototipagem, Wireframes e Design System.
@@ -14,7 +13,6 @@ Sou uma **Designer de Interface (UI/UX)** com a ambição clara de atuar como **
   * **HTML & CSS** - Domínio da estrutura web e estilização fundamental.
   * **Git & GitHub** - Familiarizada com o fluxo de trabalho de versionamento e colaboração.
   * **JavaScript (Em Foco)** - Linguagem principal que estou dominando para atuar no Frontend.
-
 
 ### 🎯 Meus Próximos Passos
 
