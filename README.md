@@ -5,8 +5,6 @@ Sou uma **Designer de Interface (UI/UX)** com a ambição clara de atuar como **
 <br>
 
 
------
-
 #### 🖌️ Design de Interface & Estratégia UX (A Fundação):
 
   * **Figma** - Prototipagem, Wireframes e Design System.
@@ -21,8 +19,6 @@ Sou uma **Designer de Interface (UI/UX)** com a ambição clara de atuar como **
 
 <br>
 
-
------
 
 ### 🎯 Meus Próximos Passos
 
