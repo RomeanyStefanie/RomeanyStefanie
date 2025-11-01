@@ -2,6 +2,8 @@
 
 Sou uma **Designer de Interface (UI/UX)** com a ambição clara de atuar como **Desenvolvedora Frontend**. Meu trabalho é desenhar a experiência com a mente de quem irá implementar.
 
+<br>
+
 
 -----
 
