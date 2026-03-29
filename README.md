@@ -1,23 +1,44 @@
-## 🎨 De Pixels a Código. UI/UX Designer com Foco em Frontend. 🚀
+# Design com visão de código.
 
-Sou uma **Designer de Interface (UI/UX)** com a ambição clara de atuar como **Desenvolvedora Frontend**. Meu trabalho é desenhar a experiência com a mente de quem irá implementar.
+**UI/UX Designer** · Design + Code · Brasil
 
-#### 🖌️ Design de Interface & Estratégia UX (A Fundação):
+Sou Designer de Interface com foco em UX e conhecimento técnico em desenvolvimento Frontend. Trabalho na interseção entre design e código — criando interfaces que são visualmente consistentes, acessíveis e viáveis de implementar.
 
-  * **Figma** - Prototipagem, Wireframes e Design System.
-  * **UX Research** - Fundamento todas as decisões de interface em dados e testes de usabilidade.
-  * **Componentização** - Crio designs modulares, prontos para a tradução em código (ex: React, Vue).
+---
 
-#### 🔗 A Ponte para o Código (Conhecimentos e Foco):
+## 01 · Design & UX
 
-  * **HTML & CSS** - Domínio da estrutura web e estilização fundamental.
-  * **Git & GitHub** - Familiarizada com o fluxo de trabalho de versionamento e colaboração.
-  * **JavaScript (Em Foco)** - Linguagem principal que estou dominando para atuar no Frontend.
+**Figma**
+Criação de design systems, prototipagem de alta fidelidade e documentação estruturada para handoff com times de desenvolvimento.
 
-### 🎯 Meus Próximos Passos
+**UX Research**
+Testes de usabilidade, entrevistas com usuários e análise de dados como base para decisões de interface.
 
-  * 🌱 **Aprendizado Atual:** Imersão total em **JavaScript/React** para migração de carreira para Frontend.
-  * 🤓 **Objetivo Imediato:** Contribuir com código (HTML/CSS/JS) em projetos reais para documentar minha evolução no GitHub.
-  * 💬 **Pergunte-me sobre:** Acessibilidade em Design (WCAG), Design Systems e como otimizar o *handoff* (entrega) para o time de desenvolvimento.
+**Componentização**
+Desenvolvimento de bibliotecas de componentes modulares e escaláveis, alinhadas à lógica de frameworks como React e Vue.
 
+---
 
+## 02 · Código
+
+**HTML & CSS**
+Domínio de estrutura semântica e estilização web, com atenção a responsividade e boas práticas de acessibilidade.
+
+**JavaScript**
+Conhecimento em desenvolvimento, com aprofundamento contínuo para ampliar a atuação no Frontend.
+
+**Git & GitHub**
+Familiaridade com versionamento, fluxo de colaboração em equipe e revisão de código.
+
+---
+
+## 03 · Foco atual
+
+**Acessibilidade desde o início**
+Aplico diretrizes WCAG já na fase de design — contraste, hierarquia visual e navegabilidade fazem parte do processo, não da revisão.
+
+**Design Systems escaláveis**
+Construo sistemas de design com consistência e documentação suficientes para reduzir retrabalho e acelerar a entrega de produto.
+
+**Handoff eficiente**
+Entrego especificações claras, com estados, variações e comportamentos documentados — para que o time de desenvolvimento possa implementar sem ambiguidade.
